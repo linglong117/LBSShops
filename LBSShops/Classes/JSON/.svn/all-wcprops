@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svnroot/project/!svn/ver/96/JEpoque/JEpoqueNew/Classes/JSON
+END
+JSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svnroot/project/!svn/ver/96/JEpoque/JEpoqueNew/Classes/JSON/JSON.h
+END
+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/project/!svn/ver/96/JEpoque/JEpoqueNew/Classes/JSON/SBJSON.h
+END
+NSObject+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/project/!svn/ver/96/JEpoque/JEpoqueNew/Classes/JSON/NSObject+SBJSON.h
+END
+NSString+SBJSON.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/project/!svn/ver/96/JEpoque/JEpoqueNew/Classes/JSON/NSString+SBJSON.h
+END
+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svnroot/project/!svn/ver/96/JEpoque/JEpoqueNew/Classes/JSON/SBJSON.m
+END
+NSObject+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/project/!svn/ver/96/JEpoque/JEpoqueNew/Classes/JSON/NSObject+SBJSON.m
+END
+NSString+SBJSON.m
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svnroot/project/!svn/ver/96/JEpoque/JEpoqueNew/Classes/JSON/NSString+SBJSON.m
+END
